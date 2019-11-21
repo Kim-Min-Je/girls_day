@@ -1,20 +1,19 @@
 header {
 	font-family: 나눔고딕;
-	font-size : 30px;
+	font-size : 25px;
 	text-align: center;
-	/*color: #5E5E5E;*/
 	color: #FF90FF;
 	border-bottom: 5px solid gray;
 	margin:0px;
-	padding: 20px;
+	padding: 10px;
 }
 nav{
 	text-align: center;
-	font-size: 10px;
+	font-size: 12px;
 	padding-right:0;
 	padding-left: 0;
 	border-right: 3px solid gray;
-	width: 70px;
+	width: 55px;
 	margin-left: 0px;
 }
 li{
@@ -55,7 +54,7 @@ div{
 }
 #grid{
 	display: grid;
-	grid-template-columns: 100px 1fr;
+	grid-template-columns: 80px 1fr;
 }
 img{
 	padding-top: 2px;
